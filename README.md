@@ -1,5 +1,5 @@
 # ChatBot(transformer) 
-Transformer를 활용한 ChatBot을 개발함 (V2.0)
+Transformer를 활용한 ChatBot을 개발함
 
 # Architecture 
 ![images](images/1.png)  
@@ -91,8 +91,7 @@ Title|Contents
 --|--
 Data|[Chatbot data](https://github.com/songys/Chatbot_data)  
 Paper|[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  
-Paper|[BERT: Pre-training of Deep Bidirectional Transformers for
-Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+Paper|[BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 # Author
 ChangWookJun / @changwookjun (changwookjun@gmail.com)
