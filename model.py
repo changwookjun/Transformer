@@ -199,7 +199,7 @@ def Model(features, labels, mode, params):
     #     loss = loss * mask_end
     #     loss = tf.reduce_mean(loss)
     # else:
-        loss = tf.reduce_mean(tf.nn.sparse_softmax_cross_entropy_with_logits(logits=logits, labels=labels))
+    loss = tf.reduce_mean(tf.nn.sparse_softmax_cross_entropy_with_logits(logits=logits, labels=labels))
     
     
     accuracy = tf.metrics.accuracy(labels=labels, predictions=predict, name='accOp')
